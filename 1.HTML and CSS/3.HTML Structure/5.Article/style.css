@@ -1,0 +1,45 @@
+body{
+    line-height: 1.618rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    border: 5px solid black;
+}
+header{
+    border: 5px solid brown;
+    margin: 10px;
+    text-align: center;
+}
+main{
+    border: 5px solid tomato;
+    margin: 10px;
+    text-align: center;
+}
+main section{
+    border: 5px solid blue;
+    margin: 10px;
+}
+main section h1{
+    border: 5px solid yellow;
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
+}
+main section article{
+    border: 5px solid springgreen;
+    margin: 5px;
+    padding: 5px;
+
+}
+main section h2{
+    border: 5px solid silver;
+    margin: 5px;
+    text-align: center;
+    padding: 5px;
+
+}
+main section p{
+    border: 5px solid rebeccapurple;
+    margin: 5px;
+    padding: 5px;
+}
