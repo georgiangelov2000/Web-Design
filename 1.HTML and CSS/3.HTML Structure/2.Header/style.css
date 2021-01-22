@@ -1,0 +1,27 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
+}
+.container{
+    background-color: gray;
+    color: white;
+}
+header{
+    text-align: center;
+    height: 150px;
+}
+nav{
+    text-align: center;
+    background-color: tomato;
+}
+header nav ul li a {
+    color: white;
+    font-weight: bold;
+    list-style: none;
+    padding: 14px 16px;
+}
+header nav ul li  {
+    list-style: none;;
+    display: inline-block;
+    cursor: pointer;
+}
