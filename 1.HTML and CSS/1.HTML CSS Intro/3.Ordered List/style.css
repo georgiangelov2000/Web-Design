@@ -1,0 +1,12 @@
+.container{
+    background-color: whitesmoke;
+    color:dodgerblue;
+    width: 300px;
+    border: 1px solid #000000;
+}
+.reversed{
+    background-color: chocolate;
+    color:white;
+    width: 300px;
+    border: 1px solid #000000;
+}
