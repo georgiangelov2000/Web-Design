@@ -1,0 +1,85 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.618rem;
+}
+.wrapper{
+    box-shadow: 0px 2px 2px black;
+}
+header{
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px;
+}
+header h1{
+    text-align: center;
+}
+header p{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+header nav ul{
+    text-align: center;
+}
+header nav ul li{
+    display: inline-block;
+    padding: 10px;
+    margin: 0px 40px 0px;
+}
+header nav ul li a{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+header a:hover{
+    background-color: white;
+    color: black;
+}
+main{
+    height: 100%;
+}
+main section{
+   width: 49.84%;
+   display: inline-block;
+}
+main section article{
+    color: black;
+    text-align: center;
+}
+
+main section article img{
+    width: 50%;
+    height: auto;
+}
+main aside{
+    color: black;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    background: aquamarine;
+}
+main aside p{
+    width: 50%;
+    margin: auto;;
+}
+main aside li{
+    list-style: none;
+}
+footer{
+    text-align: center;
+    background-color: teal;
+}
+footer h2{
+    margin: 0px;
+}
+footer nav  {
+display: inline-block;
+}
+footer nav li{
+    list-style: none;
+}
+footer nav li a{
+    text-decoration: none;
+    color: white;
+}
