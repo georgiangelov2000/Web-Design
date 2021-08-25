@@ -1,2 +1,7 @@
-# Web-Design
-### Web design with HTML, CSS, SCSS, BOOTSTRAP technologies,
+# Web design course HTML,CSS,BOOTSTRAP
+### Content
+- HTML
+- CSS
+- SCSS
+- BOOTSTAP
+- RESPONSIVE DESIGN
